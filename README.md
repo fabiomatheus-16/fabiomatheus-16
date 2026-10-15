@@ -3,11 +3,10 @@
 ![Desenvolvedor Full Stack](https://img.shields.io/badge/Foco-Desenvolvedor%20FullStack-blue?style=flat-square)
 ![Em busca de Estágio](https://img.shields.io/badge/Status-Em%20busca%20de%20Est%C3%A1gio-brightgreen?style=flat-square)
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Atualmente focado em aprofundar meus conhecimentos em **Python**, lógica de programação e desenvolvimento web para construir aplicações robustas e funcionais.
+Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Atualmente focado em aprofundar meus conhecimentos em **JavaScript**, lógica de programação e desenvolvimento web para construir aplicações robustas e funcionais.
 
-- 🔭 **Atualmente:** Estudando Python, estrutura de dados e fundamentos de desenvolvimento web.
+- 🔭 **Atualmente:** Estudando JS, estrutura de dados e fundamentos de desenvolvimento web.
 - 🎯 **Objetivo:** Conquistar minha primeira oportunidade de **estágio** em desenvolvimento de software / Full Stack.
-- 💬 **Gosto de conversar sobre:** Lógica de programação, automação em Python e tecnologia.
 
 ---
 
