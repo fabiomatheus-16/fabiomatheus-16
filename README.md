@@ -1,9 +1,20 @@
-# Fabio Matheus
+# Fabio Matheus 👋
 
-**`Desenvolvedor FullStack`**
+![Desenvolvedor Full Stack](https://img.shields.io/badge/Foco-Desenvolvedor%20FullStack-blue?style=flat-square)
+![Em busca de Estágio](https://img.shields.io/badge/Status-Em%20busca%20de%20Est%C3%A1gio-brightgreen?style=flat-square)
 
-Me chamo Fabio Matheus, tenho 23 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonado por tecnologia desde criança, sigo firme nos aprendizados. 
+Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Atualmente focado em aprofundar meus conhecimentos em **Python**, lógica de programação e desenvolvimento web para construir aplicações robustas e funcionais.
 
+- 🔭 **Atualmente:** Estudando Python, estrutura de dados e fundamentos de desenvolvimento web.
+- 🎯 **Objetivo:** Conquistar minha primeira oportunidade de **estágio** em desenvolvimento de software / Full Stack.
+- 💬 **Gosto de conversar sobre:** Lógica de programação, automação em Python e tecnologia.
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 ---
 
 ### 🤖 Linguagens e Tecnologias
