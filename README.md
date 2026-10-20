@@ -73,19 +73,18 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnolog
 
 ### 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=fabiomatheus-16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiomatheus-16&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
-  <img
-    align="left"
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomatheus-16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomatheus-16&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiomatheus-16&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabiomatheus-16&theme=radical&no-frame=true&no-bg=true&column=4" alt="Troféus do GitHub" />
 </p>
